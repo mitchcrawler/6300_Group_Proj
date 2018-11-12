@@ -10,7 +10,7 @@ https://mybinder.org/#
 Github Repo URL = https://github.com/tmigratorius/6300_Group_Proj/
 
 or just click https://mybinder.org/v2/gh/tmigratorius/6300_Group_Proj/master
-or just click the bottom button
 
+or just click the this button->
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tmigratorius/6300_Group_Proj/master)
 
