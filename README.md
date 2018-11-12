@@ -13,4 +13,4 @@ or just click https://mybinder.org/v2/gh/tmigratorius/6300_Group_Proj/master
 or just click the bottom button
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tmigratorius/6300_Group_Proj/master)
-image:: https://mybinder.org/badge_logo.svg :target: https://mybinder.org/v2/gh/tmigratorius/6300_Group_Proj/master
+
